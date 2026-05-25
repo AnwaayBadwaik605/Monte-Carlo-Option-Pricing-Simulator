@@ -18,7 +18,7 @@
 
 ![Dashboard](dashboard.png)
 
-> *50,000 simulated paths · European Call · S₀=$100 · K=$105 · σ=20% · r=5% · T=1yr*
+> *100,000 simulated paths · European Call · S₀=$100 · K=$105 · σ=20% · r=5% · T=1yr*
 
 ---
 
